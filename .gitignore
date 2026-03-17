@@ -205,3 +205,44 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Keras and TensorFlow saved models
+*.h5
+*.keras
+saved_model/
+
+# Large dataset files
+*.zip
+*.csv
+
+# Google Colab specific
+.config/
+drive/
+
+# Model checkpoints
+model1.h5
+model2.h5
+model3.h5
+vggmodel.h5
+Resnetmodel.h5
+Efficientnetmodel.h5
