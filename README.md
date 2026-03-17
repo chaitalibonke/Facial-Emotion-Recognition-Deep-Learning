@@ -73,6 +73,8 @@ neural network architectures.
   - Shear transformation (0.3)
 - No augmentation applied to validation and test sets
 - Experiment with both RGB and grayscale color modes
+- Note: A similar dataset is available on Kaggle:
+https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
 ### 2. Exploratory Data Analysis
 - Visualize sample images from each emotion class in a 3x3 grid
